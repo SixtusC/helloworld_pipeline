@@ -5,7 +5,7 @@ pipeline {
     }
     environment {
         registry = '048680260162.dkr.ecr.us-east-1.amazonaws.com/001_repository'
-        registryCredential = 'jenkins-ecr'
+        registryCredential = 'Bro_sixtus'
         dockerimage = ''
     }
     stages {
